@@ -1,1 +1,1 @@
-- ansible.builtin.import_playbook: /workspaces/ticrypt-setup/setups/backend-single-server/includes/epel-install.yml
+- ansible.builtin.import_playbook: ../ansible/epel-install.yml
